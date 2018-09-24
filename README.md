@@ -10,6 +10,8 @@ After looking at the learning experiences of our peers, we decided that we wante
 
 We want to expand our project to accommodate a wide range of subjects with a specific target for high school students. The project can be used and accessed by anyone to ensure they are receiving high quality education regardless of their background, geographical location or socioeconomic status. Platforms such as Khan Academy are great, but are only tailored to one or two learning styles. We want to be able to incorporate lessons for everyone to get the most out of it.
 
+The full submission can be viewed at https://www.hackerearth.com/sprints/yorku-hacks/dashboard/5fc1c0c/submission/ .
 
-***Contributions By:*** [Kanza](https://www.linkedin.com/in/kanzash/), [Sadaam](https://www.linkedin.com/in/sadaam-ahmed-66b52a114/), [Aaisha](http://www.linkedin.com/in/aaisha-ameen), and Sparsh, Anemme
+
+***Contributions By:*** [Kanza](https://www.linkedin.com/in/kanzash/), [Sadaam](https://www.linkedin.com/in/sadaam-ahmed-66b52a114/), [Aaisha](http://www.linkedin.com/in/aaisha-ameen), and Sparsh, [Anemme](http://www.linkedin.com/in/anemmeabasi)
 
